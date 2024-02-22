@@ -55,7 +55,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "- لاتغيرها ابدا .",
-        "value": "https://github.com/STKR2/How-",
+        "value": "https://github.com/abdalaleQ/How-",
         "required": true
       },
       "UPSTREAM_BRANCH": {
